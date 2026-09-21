@@ -19,5 +19,6 @@ func main() {
 	var namaLengkap string
 	//inisialisasi
 	namaLengkap = "Akhmad Nizar"
+
 	fmt.Println("Nama lengkap saya adalah", namaLengkap)
 }
