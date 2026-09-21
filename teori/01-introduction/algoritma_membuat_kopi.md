@@ -1,0 +1,13 @@
+Algoritma: Membuat Kopi
+Langkah - langkahnya:
+1. Pastikan kopi masih tersedia
+2. Pastikan gula masih tersedia
+3. Jika kopi dan gula masih tersedia
+- Siapkan air panas
+- Ambil satu cangkir
+- Masukkan satu sdm kopi ke dalam cangkir
+- Masukkan satu sdm gula ke dalam cangkir
+- Tuang air panas secukupnya ke dalam cangkir
+- Aduk rata
+- Kopi siap dinikmari
+4. Jika kopi atau gula tidak tersedia maka program dibatalkan
