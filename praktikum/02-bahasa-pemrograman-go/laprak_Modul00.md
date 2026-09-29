@@ -270,7 +270,7 @@ Deklarasinya:
 
 ## Kesimpulan
 
-Praktikum ini bertujuan untuk mengenalkan dasar - dasar bahasa pemrograman Go dan menjelaskan bagaimana cara penggunaannya melalui beberapa latian membuat program yang ada di atas.
+Praktikum ini bertujuan untuk mengenalkan dasar - dasar bahasa pemrograman Go dan menjelaskan bagaimana cara penggunaannya melalui beberapa latian membuat program yang ada di atas. Seperti syntax di bahasa pemrograman GO, cara deklarasi/inisiasi, dan lainnya.
 
 ## Referensi
 

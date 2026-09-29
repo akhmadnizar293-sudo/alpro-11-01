@@ -1,0 +1,17 @@
+package main
+
+import "fmt"
+
+func main() {
+	var uang int
+
+	fmt.Print("Masukkan nilai uang	: ")
+	fmt.Scanln(&uang)
+
+	fmt.Println(uang/10000, "lembar")
+	uang = uang % 10000
+	fmt.Println(uang/5000, "lembar")
+	uang = uang % 5000
+	fmt.Println(uang/1000, "lembar")
+	uang = uang % 1000
+}
