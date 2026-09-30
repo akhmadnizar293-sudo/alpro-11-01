@@ -9,5 +9,6 @@ func main() {
 	fmt.Scan(&x)
 	fmt.Print("Masukkan y: ")
 	fmt.Scan(&y)
-	fmt.Println(x % y)
+
+	fmt.Println("Sisa pembagian:", x%y)
 }

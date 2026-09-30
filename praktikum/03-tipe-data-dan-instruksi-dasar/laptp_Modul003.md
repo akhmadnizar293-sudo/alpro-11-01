@@ -1,33 +1,90 @@
-# <h1 align="center">Tugas Pendahuluan Modul [Nomor Modul] - [Judul Modul/Topik]</h1>
-<p align="center">[Nama Praktikan] - [NIM]</p>
+# <h1 align="center">Tugas Pendahuluan Modul 003 - Tipe Data dan Instruksi Dasar</h1>
 
-### 1. Sisa Kue
+<p align="center">Laporan Tugas Pendahuluan - 109092600018</p>
+
+### 1. sisa.go
 
 ```go
-[Tempelkan kode program di sini, contoh: sisa_kue.go]
+package main
+
+import "fmt"
+
+func main() {
+	var x, y int
+
+	fmt.Print("Masukkan x: ")
+	fmt.Scan(&x)
+	fmt.Print("Masukkan y: ")
+	fmt.Scan(&y)
+	fmt.Println(x % y)
+}
+
 ```
 
 ##### Output
-<!-- Path relatif dari readme.md ke folder unguided/[nama_soal]/output.png, contoh: -->
-![Screenshot Output Unguided](https://github.com/renwxyz/alpro-11-01/blob/main/praktikum/03-tipe-data-dan-instriksi-dasar/tp/sisa/output.png)
 
+![Screenshot Output Unguided](tp\sisa\output.png)
 
 #### Deskripsi
-[Tuliskan ringkasan proses praktikum: apa yang dikerjakan, bagian guided dan unguided yang diimplementasikan, serta hasil yang diperoleh.]
 
-### 2. [nama_soal, misal: kalkulator.go]
+Program di atas dia membaca inputan lalu mencari hasil dari sisa pembagian dari variable x dan y.
+
+### 2. bool.go
 
 ```go
-[Tempelkan kode program di sini, contoh: kalkulator.go]
+package main
+
+import "fmt"
+
+func main() {
+	var bool1, bool2 bool
+
+	fmt.Print("Masukkan boolean pertama (true/false): ")
+	fmt.Scan(&bool1)
+	fmt.Print("Masukkan boolean kedua (true/false): ")
+	fmt.Scan(&bool2)
+
+	fmt.Println(bool1)
+	fmt.Println(bool2)
+}
+
 ```
 
 ##### Output
-<!-- Path relatif dari readme.md ke folder unguided/[nama_soal]/output.png, contoh: -->
-![Screenshot Output Unguided](https://github.com/renwxyz/alpro-11-01/blob/main/praktikum/03-tipe-data-dan-instriksi-dasar/tp/konversi/output.png)
 
+![Screenshot Output Unguided](tp\bool\output.png)
 
 #### Deskripsi
-[Tuliskan ringkasan proses praktikum: apa yang dikerjakan, bagian guided dan unguided yang diimplementasikan, serta hasil yang diperoleh.]
+
+Program di atas membaca inputan untuk menentukan true atau false, 1 = true dan 2 = false
+
+### 3. konversi.go
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	var mil float64
+	var km float64
+
+	fmt.Print("Masukkan mil	: ")
+	fmt.Scanln(&mil)
+
+	km = mil * 1.6
+	fmt.Printf("Jarak dalam Kilometer	: %.1f km", km)
+}
+```
+
+##### Output
+
+![Screenshot Output Unguided](tp\konversi\output.png)
+
+#### Deskripsi
+
+Program di atas membaca inputan untuk mengkonversikan mil menjadi kilometer dengan membaca inputan mil yang kita inputkan.
 
 ## Kesimpulan
-[Tuliskan kesimpulan yang menjawab tujuan praktikum berdasarkan hasil yang diperoleh.]
+
+Kesimpulannya adalah mempelajari tentang variable dan operator dan juga bagaimana cara mengetikkannya ke dalam sebuah kode pemrograman dengan bahasa Go.
