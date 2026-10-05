@@ -87,4 +87,4 @@ Program di atas membaca inputan untuk mengkonversikan mil menjadi kilometer deng
 
 ## Kesimpulan
 
-Kesimpulannya adalah mempelajari tentang variable dan operator dan juga bagaimana cara mengetikkannya ke dalam sebuah kode pemrograman dengan bahasa Go.
+Kesimpulannya adalah mempelajari tentang variable dan operator, juga bagaimana cara mengetikkannya ke dalam sebuah kode pemrograman dengan bahasa Go.
