@@ -201,7 +201,7 @@ func main() {
 
 ##### Output
 
-![Screenshot Output Unguided](unguided\konversi-suhu\output.png)
+![Screenshot Output Unguided](unguided\konversi-suhu~\output.png)
 
 #### Deskripsi
 
