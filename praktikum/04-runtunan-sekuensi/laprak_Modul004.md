@@ -71,7 +71,7 @@ Berikut adalah code yang menggunakan metode if else nilai berapa lalu grade yang
 
 ##### Output
 
-![Screenshot Output Unguided](guided\soal-1\output.png)
+![Screenshot Output guided](guided\soal-1\output3.png)
 
 ### 2. penilaian.go
 
