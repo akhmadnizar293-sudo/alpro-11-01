@@ -56,7 +56,7 @@ func main() {
 
 ##### Output
 
-![Screenshot Output guided](praktikum\06-perulangan-while-loop-dan-repeat\guided\guided-1\output.png)
+![Screenshot Output guided](guided\guided-1\output.png)
 
 #### Deskripsi
 
